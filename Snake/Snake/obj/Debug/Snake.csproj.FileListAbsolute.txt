@@ -1,0 +1,10 @@
+C:\Users\alexc\Desktop\Snake-master\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\alexc\Desktop\Snake-master\Snake\obj\Debug\Snake.SnakeForm.resources
+C:\Users\alexc\Desktop\Snake-master\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\alexc\Desktop\Snake-master\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\Snake-master\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Snake-master\Snake\bin\Debug\Snake.exe.config
+C:\Users\alexc\Desktop\Snake-master\Snake\bin\Debug\Snake.exe
+C:\Users\alexc\Desktop\Snake-master\Snake\bin\Debug\Snake.pdb
+C:\Users\alexc\Desktop\Snake-master\Snake\obj\Debug\Snake.exe
+C:\Users\alexc\Desktop\Snake-master\Snake\obj\Debug\Snake.pdb
